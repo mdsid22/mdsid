@@ -1,0 +1,6 @@
+2022/01/25-15:39:58.560 6903 Reusing MANIFEST /Users/mcpr/mdsid.wabot/_IGNORE_URBAE/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/25-15:39:58.564 6903 Recovering log #4
+2022/01/25-15:39:58.569 6903 Reusing old log /Users/mcpr/mdsid.wabot/_IGNORE_URBAE/Default/Local Storage/leveldb/000004.log 
+2022/01/25-15:40:59.219 10c03 Level-0 table #7: started
+2022/01/25-15:40:59.235 10c03 Level-0 table #7: 14500 bytes OK
+2022/01/25-15:40:59.264 10c03 Delete type=0 #4
