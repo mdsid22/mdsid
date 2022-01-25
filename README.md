@@ -1,4 +1,4 @@
-<p align="center">bghgh
+<p align="center">
 <img src="https://avatars.githubusercontent.com/Urbaexyz" width="225" height="225"/>
 </p>
 <p align="center">
